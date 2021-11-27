@@ -2,6 +2,7 @@
 Provenance-Based Algorithms for Rich Queries over Graph Databases
 
 How to use the program
+
 First, define the graph. Here is an example:
 
 7
