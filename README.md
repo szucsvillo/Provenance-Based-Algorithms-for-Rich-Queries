@@ -5,9 +5,7 @@ How to use the program
 First, define the graph. Here is an example:
 
 7
-
 0 1 5
-
 0 2 3
 
 1 2 7
