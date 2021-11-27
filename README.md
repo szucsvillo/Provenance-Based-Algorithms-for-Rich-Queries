@@ -23,7 +23,6 @@ The next step is creating a new Mohri or Dijkstra objektum. For example:
 ```
 Mohri M = new Mohri();
 ```
- `{ Mohri M = new Mohri(); }`
 After that you can choose a semiring, and a starting node to run the algorithm. (Note, that not all the semirings work with all the algoritms, vid.: p16.pdf)
 
 ```
