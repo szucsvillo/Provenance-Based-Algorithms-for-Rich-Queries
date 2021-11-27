@@ -1,7 +1,7 @@
 # Provenance-Based-Algorithms-for-Rich-Queries
 Provenance-Based Algorithms for Rich Queries over Graph Databases
 
-[^bignote]: How to use the program
+How to use the program
 
 First, define the graph. Here is an example:
 ```
@@ -23,6 +23,7 @@ The next step is creating a new Mohri or Dijkstra objektum. For example:
 ```
 Mohri M = new Mohri();
 ```
+ `{ Mohri M = new Mohri(); }`
 After that you can choose a semiring, and a starting node to run the algorithm. (Note, that not all the semirings work with all the algoritms, vid.: p16.pdf)
 
 ```
