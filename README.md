@@ -16,7 +16,7 @@ First, define the graph. Here is an example:
 ```
 
 The first line shows, that how many nodes are in the graph. The other lines are the non-directed edges.
-So for example the "0 1 5" line means, that from the 0-labeled node to the 1-labeled node is an edge, wich weight is 5.
+So for example the "0 1 5" line means, that from the 0-labeled node to the 1-labeled node there is an edge, which weight is 5.
 
 The next step is creating a new Mohri or Dijkstra objektum. For example:
 
